@@ -1,4 +1,4 @@
-package br.com.satelite.api.rest;
+package br.gov.bom_destino.satelite_api.rest;
 
 import java.io.Serializable;
 
